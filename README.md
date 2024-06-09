@@ -1,4 +1,4 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
+CID_704_Athena_Commando_F_LollipopTrickster, 1500
 EID_LetsBegin_Beyond, 2000
 na
 na
